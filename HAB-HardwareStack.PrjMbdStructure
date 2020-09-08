@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB2|Source=..\Brickworks-Card-Templates\HAB-Main-Flight-Computer-Card-Template\HAB-Main-Flight-Computer-Card-Template.PrjPcb
+Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\Brickworks-Card-Templates\HAB-Main-Flight-Computer-Card-Template\HAB-Main-Flight-Computer-Card-Template.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB1|Source=..\HAB-Backplane\HAB-Backplane.PrjPcb
+Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Backplane\HAB-Backplane.PrjPcb
