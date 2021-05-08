@@ -1,6 +1,4 @@
 Record=TopLevelDocument|FileName=Nucleus-Hardware-Stack.MbsDoc
-Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB7|Source=..\HAB-Balloon-Board\HAB-Balloon-Board.PrjPcb
-Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Balloon-Board\HAB-Balloon-Board.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB6|Source=..\HAB-Power-Supply-Card\HAB-Power-Supply-Card.PrjPcb
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Power-Supply-Card\HAB-Power-Supply-Card.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB5|Source=..\HAB-Communications-Card\HAB-Communications-Card.PrjPcb
@@ -13,3 +11,5 @@ Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Avionics-Sensor-Card\HAB-Avionics-Sensor-Card.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB1|Source=..\HAB-Backplane\HAB-Backplane.PrjPcb
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Backplane\HAB-Backplane.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB7|Source=..\HAB-Balloon-Board\HAB-Balloon-Board.PrjPcb
+Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Balloon-Board\HAB-Balloon-Board.PrjPcb
