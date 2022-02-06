@@ -3,8 +3,6 @@ Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Power-Supply-Card\HAB-Power-Supply-Card.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB5|Source=..\HAB-Communications-Card\HAB-Communications-Card.PrjPcb
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Communications-Card\HAB-Communications-Card.PrjPcb
-Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB2|Source=..\Brickworks-Card-Templates\HAB-Main-Flight-Computer-Card-Template\HAB-Main-Flight-Computer-Card-Template.PrjPcb
-Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\Brickworks-Card-Templates\HAB-Main-Flight-Computer-Card-Template\HAB-Main-Flight-Computer-Card-Template.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB4|Source=..\HAB-Altitude-Dynamics-Control-Card\HAB-Altitude-Dynamics-Control-Card.PrjPcb
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Altitude-Dynamics-Control-Card\HAB-Altitude-Dynamics-Control-Card.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB3|Source=..\HAB-Avionics-Sensor-Card\HAB-Avionics-Sensor-Card.PrjPcb
@@ -13,3 +11,5 @@ Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Backplane\HAB-Backplane.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB7|Source=..\HAB-Balloon-Board\HAB-Balloon-Board.PrjPcb
 Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Balloon-Board\HAB-Balloon-Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB2|Source=..\HAB-Main-Flight-Computer-Card\HAB-Main-Flight-Computer-Card-Template.PrjPcb
+Record=SubProject|SourceDocument=Nucleus-Hardware-Stack.MbsDoc|ProjectPath=..\HAB-Main-Flight-Computer-Card\HAB-Main-Flight-Computer-Card-Template.PrjPcb

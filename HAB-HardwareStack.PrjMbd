@@ -34,6 +34,12 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=2
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -74,23 +80,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=..\Brickworks-Card-Templates\HAB-Main-Flight-Computer-Card-Template\HAB-Main-Flight-Computer-Card-Template.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=..\HAB-Balloon-Board\HAB-Balloon-Board.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +96,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=..\HAB-Avionics-Sensor-Card\HAB-Avionics-Sensor-Card.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +113,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\HAB-Altitude-Dynamics-Control-Card\HAB-Altitude-Dynamics-Control-Card.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +130,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Nucleus-Assembly.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,6 +146,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=6070afb2-6e98-4152-8726-c263dc0b6a5a
+
+[Document7]
+DocumentPath=..\HAB-Main-Flight-Computer-Card\HAB-Main-Flight-Computer-Card-Template.PrjPcb
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [OutputGroup1]
 Name=Netlist Outputs
